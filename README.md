@@ -1,6 +1,6 @@
 # ESNC机场官网地址
 
-最新地址：[esncnet.com](https://esnc.club/zh/#/auth/signup;referral=II0iKCJk)
+最新地址：[esncnet.com](https://board.esncnet.com/#/register?code=II0iKCJk)
 
 ## ESNC介绍
 
